@@ -1,2 +1,2 @@
 # Final-Project-CoCADa
-Projeto Final da disciplina Computação Científica e Análise de Dados - BCC - UFRJ.
+Projeto Final individual de Computação Científica e Análise de Dados - BCC - UFRJ.
